@@ -1,7 +1,12 @@
-h1{
-    color:blue;
+.fa-star,
+.fa-star-half{
+    padding: 3% 0%;
 }
 
-h2{
-    color:red;
+.card-text{
+    font-size: 14px;
+}
+
+.btn{
+    border: solid;
 }
